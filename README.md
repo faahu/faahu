@@ -1,6 +1,8 @@
 ##  👋 Hi, I’m @faahu
+<!---
 - 👀 Portfolio https://faahu.github.io/faahu/
 - 🌱 Contact me facundopurdie@gmail.com
+
 ### Projects!
 • https://faahu.github.io/Heladeria/ <br>
 • https://faahu.github.io/DecorHome/ <br>
